@@ -36,7 +36,6 @@ streamlit run main.py
 ```
 Enter your OpenAI API key, Notion API token, and Page ID in the appropriate fields and click on the `Submit` button.
 
-E
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
