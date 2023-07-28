@@ -1,4 +1,4 @@
-# OpenAI Notion Page Creator
+# NotionWizard
 
 This is a simple Notion Page Assistant that uses OpenAI's functions to create a Notion page. 
 
